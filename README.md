@@ -7,5 +7,9 @@ support different types of users.
 The enhanced features include a friend and event recommendation, reviews for speakers at the conference, more complex 
 messaging system, downloadable HTML file of a user's schedule, ability to make requests, and viewable traffic statistics.
 
+This project successfully adhered to and utilized clean architecture, SOLID, and design patterns.
+
+A few of the design patterns used were facades for the controller and factory for the different types of controllers.
+
 
 
